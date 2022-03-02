@@ -1,4 +1,4 @@
-# probeersel met Timothy en Branko
+# 2deprobeersel  met Timothy en Branko
 git oefening
 halloooooooo
 Mijn naam is Timothy Rombouts
