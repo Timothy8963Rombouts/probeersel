@@ -1,5 +1,4 @@
 # probeersel met Timothy en Branko
 git oefening
-hallo
+halloooooooo
 Mijn naam is Timothy Rombouts
-Mijn naam is Branko Fioole.
