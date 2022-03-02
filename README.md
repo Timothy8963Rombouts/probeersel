@@ -1,4 +1,4 @@
-# ik verander de titel
+# mijn titel
 git oefening
 halloooooooo
 Mijn naam is Timothy Rombouts
